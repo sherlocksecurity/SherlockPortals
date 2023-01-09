@@ -2,6 +2,9 @@
 A simple Python script to check if a domain is using external services like Zendesk, OneDirect, Freshworks, and Freshdesk.
 
 
+Install:
+> git clone https://github.com/sherlocksecurity/SherlockPortals.git
+
 Usage:
 > python3 SherlockPortals.py -u hackerone
 
