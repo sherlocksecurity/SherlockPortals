@@ -40,3 +40,6 @@ print(check_for_service(domain, "zendesk"))
 print(check_for_service(domain, "onedirect"))
 print(check_for_service(domain, "freshdesk"))
 print(check_for_service(domain, "freshworks"))
+
+##ignore this
+##DATADOG_API_KEY: 64e7131113efa9425555e45dee6dab56
